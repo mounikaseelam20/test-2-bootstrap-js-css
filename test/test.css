@@ -1,0 +1,50 @@
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus,
+.nav-tabs>li.active>a:hover {
+    color: #555;
+    cursor: pointer;
+    border-color: transparent;
+    border-bottom: 3px solid blue;
+    background-color: transparent;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+img {
+    max-height: 350px;
+}
+
+#tab1 img {
+    width: 40px;
+    height: 50px;
+}
+
+.tabs {
+    margin-bottom: 20px;
+}
+
+.maincontent {
+    border-left: 2px solid gray;
+}
+
+#tab1 .panel {
+    border-left: 5px solid gray;
+}
+
+.panelcontent {
+    border: 2px solid #d6e9c6;
+}
+
+#tab1 .panel-body {
+    padding: 0px;
+}
+
+.header {
+    background-color: rgba(165, 36, 42, 0.25);
+}
+
+body {
+    background: url("http://www.nyacar.com/i/all-white-wallpaper-desktop-background-46115.jpg");
+}

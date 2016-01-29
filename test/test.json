@@ -1,0 +1,40 @@
+{
+    "pictures": [{
+        "path": "http://www.hdwallpaperscool.com/wp-content/uploads/2013/11/awesome-goldenpheasant-birds-hd-wallpapers-fullscreen-desktop-birds-images.jpg",
+        "caption": "The atmosphere in Chania has a touch of Florence and Venice."
+    }, {
+        "path": "http://www.nscblog.com/wp-content/uploads/2014/04/birds-314989.jpg",
+        "caption": "The atmosphere in Chania has a touch of Florence and Venice."
+    }, {
+        "path": "http://cdn.powerball4life.co/2016/01/11/wallpaper-bird-birds-1920x1080.jpg",
+        "caption": "Beatiful flowers in Kolymbari, Crete."
+    }],
+
+    "icons": [{
+            "header": "item1",
+            "icon": "http://icons.iconarchive.com/icons/mazenl77/I-like-buttons-3a/512/Cute-Ball-Go-icon.png",
+            "description": "JavaScript is a programming language that adds interactivity to your website"
+        }, {
+            "header": "item2",
+            "icon": "https://www.iconaholic.com/work/candy-apple-icon.png",
+            "description": "CSS is a stylesheet language that describes the presentation of an HTML"
+        }, {
+            "header": "item3",
+            "icon": "http://www.psdgraphics.com/file/global-communications-icon.jpg",
+            "description": "HTML is a markup language for describing web documents "
+        }
+
+    ],
+    "dashboard": [{
+        "content": "We are emerging markets driven and focused around the product life cycle of technology focused companies. From idea to commercialization, we strive to build convergent solutions that help our clients grow their business and realize their market vision."
+    }, {
+        "content": "10220 williamsburg carles vegan carles vegan carles vegan helvetica. Reprehenderit butcher retro keffiyeh id."
+    }, {
+        "content": "10221 williamsburg carles vegan carles vegan carles vegan helvetica. Reprehenderit butcher retro keffiyeh id."
+    }, {
+        "content": "10222 williamsburg carles vegan carles vegan carles vegan helvetica. Reprehenderit butcher retro keffiyeh id."
+    }, {
+        "content": "10223 williamsburg carles vegan carles vegan carles vegan helvetica. Reprehenderit butcher retro keffiyeh id."
+    }]
+
+}
